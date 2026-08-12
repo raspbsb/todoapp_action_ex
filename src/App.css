@@ -1,0 +1,4 @@
+.form-check input:checked + label {
+  text-decoration: line-through;
+  color: #ccc;
+}
